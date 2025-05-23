@@ -1,0 +1,1 @@
+{"cb65bad554ed14764c3955385f8b08f8":{"statistic":{"failed":1,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"42f8c5a873e00577","status":"failed","statusDetails":"Quick Launch item count mismatch. expected [6] but found [4]","time":{"start":1748004184267,"stop":1748004187825,"duration":3558}}]}}

@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Logs in and checks that the Quick Launch section contains exactly 6 expected items.","3558","Validates that all expected Quick Launch items are displayed correctly.","Surefire suite","Fri May 23 18:13:04 IST 2025","failed","Fri May 23 18:13:07 IST 2025","org.example.tests.LoginTest","Surefire test","org.example.tests.LoginTest","validateQuickLaunchItems"
