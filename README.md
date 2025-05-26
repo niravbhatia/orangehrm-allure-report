@@ -22,8 +22,8 @@ It includes the ability to:
 - GitHub Pages for Allure report hosting
 
 
-
 🧪 How to Run Locally
+
 # Run tests using TestNG suite
 mvn clean test -Dsurefire.suiteXmlFiles=testng.xml
 
